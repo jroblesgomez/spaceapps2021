@@ -37,10 +37,7 @@ Share your questions and results!
 Check your progress
 
 ### Demo
-
-<div>
-<iframe src="https://slides.com/jurorogo/deck-73e2d8/embed" width="576" height="420"></iframe>
-</div>
+https://slides.com/jurorogo/deck-73e2d8
 
 ## Our team: White Box Makers
 
