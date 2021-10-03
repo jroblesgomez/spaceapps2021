@@ -21,7 +21,7 @@ Total budget: 444.66 €
 
 Unit 1: Meet Luna
 
-![Luna](/images/luna1.png)
+![Luna](spaceapps2021/images/luna1.png)
 
 Unit 2: Basic Physics
 
