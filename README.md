@@ -42,12 +42,16 @@ Check your progress
 
 ### Demo
 
-<iframe src="https://slides.com/jurorogo/deck-73e2d8/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/jurorogo/deck-73e2d8/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+        </iframe>
 
 ## Our team: White Box Makers
 
-·Kuang Liu Chen: Electrical Engineering student, he likes videogames and robotics.
-·Cristian Cobo Ferrer: 2D artist, loves art and crafting things, always creating.
-·Juan Roberto Robles Gómez: Aerospace Engineer and hackaton lover.
-·Ruben García Marín: Maths student.
+· Kuang Liu Chen: Electrical Engineering student, he likes videogames and robotics.
+
+· Cristian Cobo Ferrer: 2D artist, loves art and crafting things, always creating.
+
+· Juan Roberto Robles Gómez: Aerospace Engineer and hackaton lover.
+
+· Ruben García Marín: Maths student.
 
