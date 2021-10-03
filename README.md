@@ -42,8 +42,9 @@ Check your progress
 
 ### Demo
 
-<iframe src="https://slides.com/jurorogo/deck-73e2d8/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-        </iframe>
+<div>
+<iframe src="https://slides.com/jurorogo/deck-73e2d8/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## Our team: White Box Makers
 
