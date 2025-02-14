@@ -37,7 +37,7 @@ Share your questions and results!
 Check your progress
 
 ### Demo
-https://slides.com/jurorogo/deck-73e2d8
+[DEMO](https://slides.com/jroblesgomez/spaceapps2021)
 
 ## Our team: White Box Makers
 
